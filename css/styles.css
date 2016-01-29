@@ -1,23 +1,18 @@
 body {
   font-family: "Antic Slab", "cursive";
 }
-
-.jumbotron {
-  position: relative;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #65BEB4;
-  text-align: center;
-  margin-top: 0px;
-  color: white;
-}
 nav {
-  /*padding-top: 30px;*/
   padding-bottom: 25px;
   background-color: #F7F7F7;
   color: #cb5211;
-  font-size: 30px;
+  font-size: 25px;
   padding-right: 30px;
+}
+.navbar-header  {
+padding-bottom: 20px;
+}
+.logo {
+  max-height:70px;
 }
 .nav.navbar-nav li a {
   color: #cb5211;
@@ -26,10 +21,20 @@ nav {
   padding-top: 10px;
   margin-top: 20px;
 }
-.logo {
-  max-height:70px;
-  /*margin-bottom: 10px;*/
+.jumbotron {
+  position: relative;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 10px;
+  background-color: #65BEB4;
+  text-align: center;
+  margin-top: 0px;
+
 }
-.navbar-header  {
-padding-bottom: 20px;
+.jumbotron h1 {
+  font-size: 40px;
+  color: white;
+}
+.big-logo {
+  padding: 5px;
 }

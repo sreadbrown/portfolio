@@ -1,3 +1,18 @@
 body {
   font-family: "Antic Slab", "cursive";
 }
+
+.bs-docs-header {
+  position: relative;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #cdbfe3;
+  text-align: center;
+  margin-top: 0px;
+}
+nav {
+  margin-bottom: 0px;
+  border-bottom: 0px;
+  padding-top: 10px;
+  padding-bottom: 0px;
+}

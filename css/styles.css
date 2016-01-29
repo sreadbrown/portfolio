@@ -2,17 +2,27 @@ body {
   font-family: "Antic Slab", "cursive";
 }
 
-.bs-docs-header {
+.jumbotron {
   position: relative;
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #cdbfe3;
+  background-color: #65BEB4;
   text-align: center;
   margin-top: 0px;
+  color: #cb5211;
 }
 nav {
   margin-bottom: 0px;
   border-bottom: 0px;
   padding-top: 10px;
   padding-bottom: 0px;
+  align-items: stretch;
+  background-color: #F7F7F7;
+  color: #cb5211;
+}
+.nav.navbar-nav li a {
+  color: #cb5211;
+}
+ {
+  color: #cb5211;
 }

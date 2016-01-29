@@ -38,3 +38,16 @@ padding-bottom: 20px;
 .big-logo {
   padding: 5px;
 }
+.col-md-4 {
+  margin-top: 2%;
+  margin-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.container-fluid  {
+  padding-left: 5%;
+  padding-right: 5%;
+}

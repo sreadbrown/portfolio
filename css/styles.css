@@ -12,17 +12,24 @@ body {
   color: white;
 }
 nav {
-  margin-bottom: 10px;
-  border-bottom: 0px;
-  padding-top: 10px;
-  padding-bottom: 0px;
-  left: 0;
+  /*padding-top: 30px;*/
+  padding-bottom: 25px;
   background-color: #F7F7F7;
   color: #cb5211;
-
+  font-size: 30px;
+  padding-right: 30px;
 }
 .nav.navbar-nav li a {
   color: #cb5211;
   left: 10%;
-  bottom: auto;
+  bottom: auto;*/
+  padding-top: 10px;
+  margin-top: 20px;
+}
+.logo {
+  max-height:70px;
+  /*margin-bottom: 10px;*/
+}
+.navbar-header  {
+padding-bottom: 20px;
 }

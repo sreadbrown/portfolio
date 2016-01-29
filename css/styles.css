@@ -9,20 +9,23 @@ body {
   background-color: #65BEB4;
   text-align: center;
   margin-top: 0px;
-  color: #cb5211;
+  color: white;
 }
 nav {
-  margin-bottom: 0px;
+  margin-bottom: 10px;
   border-bottom: 0px;
   padding-top: 10px;
   padding-bottom: 0px;
-  align-items: stretch;
+  left: 0;
   background-color: #F7F7F7;
   color: #cb5211;
+
 }
 .nav.navbar-nav li a {
   color: #cb5211;
+  left: 10%;
+  bottom: auto;
 }
- {
-  color: #cb5211;
+.logo {
+
 }

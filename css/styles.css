@@ -23,8 +23,8 @@ padding-bottom: 20px;
 }
 .jumbotron {
   position: relative;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 3%px;
+  padding-bottom: 3%px;
   margin-bottom: 10px;
   background-color: #65BEB4;
   text-align: center;
@@ -40,7 +40,7 @@ padding-bottom: 20px;
 }
 .col-md-4 {
   margin-bottom: 10px;
-  padding-bottom: 5px;
+  padding-bottom: 3%;
   padding-left: 3%;
   padding-right: 3%;
 }
@@ -71,6 +71,7 @@ padding-bottom: 20px;
 }
 .About-me {
   background-color: #e1e0d7;
+  padding-bottom: 3%;
 }
 .img-circle{
   max-width: 20%;

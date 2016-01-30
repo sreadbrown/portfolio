@@ -32,7 +32,7 @@ padding-bottom: 20px;
 
 }
 .jumbotron h1 {
-  font-size: 40px;
+  font-size: 45px;
   color: white;
 }
 .big-logo {
@@ -46,8 +46,23 @@ padding-bottom: 20px;
   padding-left: 3%;
   padding-right: 3%;
 }
-
 .container-fluid  {
   padding-left: 5%;
   padding-right: 5%;
+  text-align: center;
+}
+.Work h1 {
+  text-align: center;
+  color: #484545;
+  font-size: 40px;
+  font-variant: small-caps;
+}
+.Work h2 {
+  text-align: center;
+  color: #484545;
+  font-variant: small-caps;
+}
+.Work p {
+  font-size: medium;
+  text-align: left;
 }

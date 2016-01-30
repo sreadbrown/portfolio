@@ -5,7 +5,7 @@ nav {
   padding-bottom: 25px;
   background-color: #F7F7F7;
   color: #cb5211;
-  font-size: 25px;
+  font-size: 200%;
   padding-right: 30px;
 }
 .navbar-header  {
@@ -20,6 +20,8 @@ padding-bottom: 20px;
   bottom: auto;*/
   padding-top: 10px;
   margin-top: 20px;
+  font-variant: small-caps;
+
 }
 .jumbotron {
   position: relative;
@@ -80,8 +82,8 @@ padding-bottom: 20px;
 }
 .About-me {
   padding-bottom: 3%;
-  padding-right: 7%;
-  padding-left: 7%;
+  padding-right: 9%;
+  padding-left: 5%;
   font-size: medium;
 }
 .About-me ul {
@@ -92,6 +94,15 @@ padding-bottom: 20px;
 #footer {
   background-color:#65BEB4;
   color:white;
-  padding: 3%;
+  padding: 1.5%;
   margin-bottom: 0px;
+  text-align: center;
+}
+#footer h1 {
+  font-variant: small-caps;
+  font-size: 270%;
+  margin-top: 4%;
+}
+#footer p {
+  font-size: 140%;
 }

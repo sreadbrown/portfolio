@@ -94,7 +94,7 @@ padding-bottom: 20px;
 .About-me ul {
   text-align: right;
   color: #cb5211;
-  font-size: large;
+  font-size: 150%;
 }
 #footer {
   background-color:#65BEB4;
@@ -102,6 +102,7 @@ padding-bottom: 20px;
   padding: 1.5%;
   margin-bottom: 0px;
   text-align: center;
+  vertical-align: middle;
 }
 #footer h1 {
   font-variant: small-caps;

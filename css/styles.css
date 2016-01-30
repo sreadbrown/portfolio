@@ -51,9 +51,9 @@ padding-bottom: 20px;
   padding-right: 5%;
   text-align: center;
 }
-.Work h1 {
+.section-head {
   text-align: center;
-  color: #484545;
+  color: #484545
   font-size: 40px;
   font-variant: small-caps;
 }
@@ -74,4 +74,8 @@ padding-bottom: 20px;
 }
 .img-responsive{
   max-width: 20%;
+}
+.About-me ul {
+  text-align: right;
+  
 }

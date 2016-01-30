@@ -39,9 +39,7 @@ padding-bottom: 20px;
   padding: 5px;
 }
 .col-md-4 {
-  margin-top: 2%;
   margin-bottom: 10px;
-  padding-top: 5px;
   padding-bottom: 5px;
   padding-left: 3%;
   padding-right: 3%;
@@ -56,11 +54,16 @@ padding-bottom: 20px;
   color: #484545
   font-size: 40px;
   font-variant: small-caps;
+  padding-bottom: 3%;
+  padding-top: 3%;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 .Work h2 {
   text-align: center;
   color: #484545;
   font-variant: small-caps;
+  margin-top: 0px;
 }
 .Work p {
   font-size: medium;
@@ -71,10 +74,16 @@ padding-bottom: 20px;
 }
 .img-circle{
   max-width: 20%;
+  margin: 2%;
 }
-.img-responsive{
-  max-width: 20%;
+.About-me {
+  padding-bottom: 3%;
+  padding-right: 7%;
+  padding-left: 7%;
+  font-size: medium;
 }
 .About-me ul {
   text-align: right;
+  color: #cb5211;
+  font-size: large;
 }

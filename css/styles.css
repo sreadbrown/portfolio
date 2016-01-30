@@ -66,3 +66,12 @@ padding-bottom: 20px;
   font-size: medium;
   text-align: left;
 }
+.About-me {
+  background-color: #e1e0d7;
+}
+.img-circle{
+  max-width: 20%;
+}
+.img-responsive{
+  max-width: 20%;
+}

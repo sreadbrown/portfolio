@@ -115,3 +115,7 @@ padding-bottom: 20px;
 .special {
   color: #cb5211
 }
+
+.biopic {
+  max-height: 80%;
+}
